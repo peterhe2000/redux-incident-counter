@@ -1,4 +1,4 @@
-import { DECREMENT, INCREMENT, SET } from './action';
+import { DECREMENT, INCREMENT, SET } from './actions';
 
 export const initialState = { count: 0 };
 
